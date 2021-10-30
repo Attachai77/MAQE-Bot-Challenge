@@ -1,3 +1,8 @@
+import { MaqeBot } from './maqeBot'
+
 const input = process.argv[2]
-console.log({input});
+const meqeBot = new MaqeBot(input)
+const result = meqeBot.run()
+
+console.log(result);
 
