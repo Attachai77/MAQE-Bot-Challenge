@@ -1,0 +1,20 @@
+{
+  "name": "MAQE-Bot-Challenge",
+  "version": "1.0.0",
+  "description": "This is homework challenge from MAQE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attachai77/MAQE-Bot-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Attachai77/MAQE-Bot-Challenge/issues"
+  },
+  "homepage": "https://github.com/Attachai77/MAQE-Bot-Challenge#readme"
+}
