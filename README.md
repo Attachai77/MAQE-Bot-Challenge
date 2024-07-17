@@ -1,5 +1,5 @@
 # MAQE-Bot-Challenge
-This is homework challenge from MAQE
+The assignment challenge from MAQE
 
 https://maqe.github.io/maqe-bot.html
 
